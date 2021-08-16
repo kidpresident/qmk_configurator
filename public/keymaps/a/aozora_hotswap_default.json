@@ -1,6 +1,7 @@
 {
     "keyboard": "aozora/hotswap",
     "keymap": "default",
+    "commit": "dummy",
     "layout": "LAYOUT",
     "layers": [
         [
